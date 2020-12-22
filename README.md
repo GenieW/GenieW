@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morninpizza@gmail.com)](mailto:morninpizza@gmail.com)
+</div>
+
 <!--
 **GenieW/GenieW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
