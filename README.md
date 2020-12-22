@@ -1,4 +1,4 @@
-### `디지털 노마드` 되고 시펑 🐎
+### 🐎 `디지털 노마드`  되고 시펑 🐳
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morninpizza@gmail.com)](mailto:morninpizza@gmail.com)
 
