@@ -1,6 +1,6 @@
 ### `디지털` `노마드`  되고 시펑 🐳
-- 🌱 잔디를 심어 봅시다
-- 1️⃣ 을 9️⃣ 해야해
+- 잔디를 심어 봅시다 🌱
+- 1️⃣ 을 9️⃣ 해야해 💰
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morninpizza@gmail.com)](mailto:morninpizza@gmail.com)
 
